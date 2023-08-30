@@ -5,9 +5,14 @@ h1{
     color:#483d8b;
 }
 nav{
-    background-color: black;   
+    background: black;   
+    width: 500px;
     margin:0 auto; 
 }
+.bar{
+    background: black;
+}
 .center{
+    width:950px;
     margin:0 auto;
 }
