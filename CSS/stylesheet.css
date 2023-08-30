@@ -4,15 +4,11 @@ body{
 h1{
     color:#483d8b;
 }
-nav{
-    background: black;   
-    width: 500px;
-    margin:0 auto; 
-}
+
 .bar{
-    background: black;
+    background: #F28500;
 }
 .center{
-    width:950px;
+    width:100px;
     margin:0 auto;
 }
