@@ -1,14 +1,16 @@
 body{
     background-color:#ffe4c4;
 }
+
 h1{
     color:#483d8b;
 }
-
-.bar{
+.nav_bar{
     background: #F28500;
+    text-align: center;
 }
-.center{
-    width:100px;
-    margin:0 auto;
+
+h1.only{
+    font-family: 'Montserrat', sans-serif;
 }
+
