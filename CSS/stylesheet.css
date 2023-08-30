@@ -4,3 +4,10 @@ body{
 h1{
     color:#483d8b;
 }
+nav{
+    background-color: black;   
+    margin:0 auto; 
+}
+.center{
+    margin:0 auto;
+}
